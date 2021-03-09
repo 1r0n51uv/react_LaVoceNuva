@@ -43,7 +43,7 @@ class Home extends Component {
                                                                 <a style={{textDecoration: 'none', color: '#CB6B6B'}} href={post.id}>Leggi tutto.. <i className="fas fa-arrow-right"/></a>
                                                             </div>
                                                             <div className="card-footer" style={{color: '#343A40'}}>
-                                                                <i className="far fa-clock"/> Novembre-Dicembre 2020
+                                                                <i className="far fa-clock"/> Gennaio-Febbraio 2021
                                                             </div>
                                                         </div>
                                                     </div>
