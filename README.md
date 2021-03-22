@@ -13,6 +13,8 @@ Since 1992, the periodical "La Voce Nuova" has been a promoter of information an
 
 ## Online :heavy_check_mark:
 
+Deployed on [Netlify.com](https://netlify.com/), Serverless, based on Github repo
+
 [LaVoceNuova.ml](https://lavocenuova.ml/)
 
 
