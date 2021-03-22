@@ -8,7 +8,7 @@ Since 1992, the periodical "La Voce Nuova" has been a promoter of information an
   <li>React</li>
    <li>Firebase</li>
    <li>Bootstrap</li>
-   <li>Various Libraries</li>
+   <li>Various Libraries (ex. react-router-dom)</li>
   </ul>
 
 ## Online :heavy_check_mark:
